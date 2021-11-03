@@ -1,4 +1,4 @@
-Current Skills: 
+Current Skills 📖: 
   - Arduino
   - C#
   - Python
