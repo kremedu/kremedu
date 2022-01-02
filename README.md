@@ -2,6 +2,7 @@ Current Skills 📖:
   - Arduino
   - C#
   - Python
+  - Unreal Engine Gameplay Mechanics
 
 Future Skills🌱:
   - Web Design
