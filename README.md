@@ -8,6 +8,7 @@ Current Skills 📖:
   - VBS
   - PowerShell
   - EntityFramework
+    
 Future Skills🌱:
   - Web Design
 
