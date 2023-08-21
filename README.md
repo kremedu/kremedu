@@ -10,6 +10,7 @@ Current Skills 📖:
   - EntityFramework
     
 Future Skills🌱:
+  - Angular
   - Web Design
 
 
