@@ -3,7 +3,11 @@ Current Skills 📖:
   - C#
   - Python
   - Unreal Engine Gameplay Mechanics
-
+  - Unity
+  - Test Automation
+  - VBS
+  - PowerShell
+  - EntityFramework
 Future Skills🌱:
   - Web Design
 
